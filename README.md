@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cyberpunk-backend-banner.png" width="100%" alt="Cyberpunk-визуализация backend-инфраструктуры" />
+  <img src="./assets/cyberpunk-backend-banner.png" width="100%" alt="Cyberpunk" />
 </p>
 
 <h1 align="center">Привет, я Дмитрий</h1>
@@ -17,8 +17,6 @@
   <code>BACKEND</code>
   &nbsp;•&nbsp;
   <code>DISTRIBUTED SYSTEMS</code>
-  &nbsp;•&nbsp;
-  <code>EVENT-DRIVEN</code>
 </p>
 
 ## `> whoami`
